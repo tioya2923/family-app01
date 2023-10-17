@@ -1,0 +1,81 @@
+import React, { useState, useEffect, useRef } from "react";
+import { NavLink } from "react-router-dom";
+import "./Navbar.css";
+import Hamburger from 'hamburger-react';
+
+const Navbar = () => {
+    const navigation = [
+        { link: '#', text: 'Árvore' },
+        { link: '#', text: 'Fotografias' },
+        { link: '#', text: 'Vídeos' },
+        { link: '#', text: 'Audios' },
+        { link: '#', text: 'Documentos' },
+        { link: '#', text: 'Área Pessoal' },
+    ];
+    const [isOpen, setOpen] = useState(false);
+
+
+    /*
+    let menuRef = useRef();
+
+    useEffect(() => {
+        let handler = (e) => {
+            if (!menuRef.current.contains(e.target)) {
+                setOpen(false);
+            }
+
+            
+        };
+        document.addEventListener("mousedown", handler);
+
+        return () => {
+            document.removeEventListener("mousedown", handler);
+        }
+
+        
+    });
+
+    const handleShowNavbar = () => {
+        setOpen(!isOpen);
+    };
+        */
+    return (
+
+       
+
+        {/*
+        <nav className="navbar" >
+
+
+        
+
+        ref={menuRef}
+
+
+            <div className="menu-icon" onClick={handleShowNavbar}>
+                <Hamburger />
+            </div>
+Árvore
+            {`nav-links ${isOpen && 'active'}`}
+   
+
+
+        < div className = "" >
+
+            <ul>
+                <li className="item"><NavLink to="/arvore">Árvore</NavLink></li>
+                <li className="item"><NavLink to="/fotografias">Fotografias</NavLink></li>
+                <li className="item"><NavLink to="/videos">Vídeos</NavLink></li>
+                <li className="item"><NavLink to="/audios">Audios</NavLink></li>
+                <li className="item"><NavLink to="/documentos">Documentos</NavLink></li>
+                <li className="item"><NavLink to="/areaPessoal">Área Pessoal</NavLink></li>
+            </ul>
+            </div >
+           
+        </nav >*/}
+
+        
+    );
+}; 
+
+export default Navbar;
