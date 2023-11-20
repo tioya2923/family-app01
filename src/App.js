@@ -5,13 +5,13 @@ import { theme } from './theme';
 import Navbar from './Components/Navigation/Navbar';
 import Footer from './Components/FooterPage/Footer';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Home from './Components/Navigation/Pages/home';
-import Arvore from './Components/Navigation/Pages/arvore';
-import Fotografias from './Components/Navigation/Pages/fotografias';
-import Videos from './Components/Navigation/Pages/videos';
-import Audios from './Components/Navigation/Pages/audios';
-import AreaPessoal from './Components/Navigation/Pages/areaPessoal';
-import Documentos from './Components/Navigation/Pages/documentos';
+import Home from './Components/Navigation/HomePages/home';
+import Arvore from './Components/Navigation/HomePages/arvore';
+import Fotografias from './Components/Navigation/HomePages/fotografias';
+import Videos from './Components/Navigation/HomePages/videos';
+import Audios from './Components/Navigation/HomePages/audios';
+import AreaPessoal from './Components/Navigation/HomePages/areaPessoal';
+import Documentos from './Components/Navigation/HomePages/documentos';
 
 
 

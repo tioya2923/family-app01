@@ -1,9 +1,9 @@
 import React from "react";
-
+import DocumentosFamilia from "../../Pages/documentos-familia";
 const Documentos = () => {
     return (
         <div>
-            <h1>Documentos Familiares</h1>
+           <DocumentosFamilia />
         </div>
     );
 };

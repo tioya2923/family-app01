@@ -1,9 +1,10 @@
 import React from "react";
+import AudiosFamilia from "../../Pages/audios-familia";
 
 const Audios = () => {
     return (
         <div>
-            <h1>Audios e Músicas da Família</h1>
+            <AudiosFamilia />
         </div>
     );
 };

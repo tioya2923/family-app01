@@ -1,9 +1,10 @@
 import React from "react";
+import ArvoreGenealogica from "../../Pages/arvore-genealogica";
 
 const Arvore = () => {
     return(
         <div>
-            <h1>Árvore Genealógica</h1>
+            <ArvoreGenealogica />            
         </div>
     );
 };

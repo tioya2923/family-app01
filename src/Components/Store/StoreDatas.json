@@ -1,0 +1,41 @@
+[
+    {
+        "id": 0,
+        "foto": "https://cptstatic.s3.amazonaws.com/imagens/enviadas/materias/materia12476/projeto-asas-noticias-cpt.jpg",
+        "name": "Adriela de Gouveia",
+        "desc": "A Adriela Cantando",
+        "alt": "Adriela Cantando......."
+    },
+
+    {
+        "id": 1,
+        "foto": "https://roraimaemfoco.com/wp-content/uploads/2023/03/araravermelha4.jpg",
+        "name": "Adriela de Gouveia",
+        "desc": "A Adriela Cantando",
+        "alt": "Adriela Cantando......."
+    },
+
+    {
+        "id": 2,
+        "foto": "https://img.freepik.com/fotos-premium/paisagem-magica-majestosa-da-fantasia-com-ilustracao-3d-dos-raios-do-sol-da-cachoeira-do-rio-das-montanhas_598586-1969.jpg",
+        "name": "Adriela de Gouveia",
+        "desc": "A Adriela Cantando",
+        "alt": "Adriela Cantando......."
+        
+    },
+
+    {
+        "id": 3,
+        "foto": "https://cdn.visitportugal.com/sites/www.visitportugal.com/files/mediateca/N1015d.jpg",
+        "name": "Adriela de Gouveia",
+        "desc": "A Adriela Cantando"
+    },
+
+    {
+        "id": 4,
+        "foto": "https://greensavers.sapo.pt/wp-content/uploads/2022/10/lukasz-szmigiel-jFCViYFYcus-unsplash-e1665395961119.jpg",
+        "name": "Adriela de Gouveia",
+        "desc": "A Adriela Cantando"
+    }
+
+]

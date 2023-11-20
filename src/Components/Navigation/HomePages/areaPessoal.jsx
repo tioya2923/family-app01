@@ -1,9 +1,9 @@
 import React from "react";
-
+import AreaPrivada from "../../Pages/area-pessoal";
 const AreaPessoal = () => {
     return (
         <div>
-            <h1>ESTA É A SUA ÁREA PRIVADA</h1>
+            <AreaPrivada />
         </div>
     );
 };
