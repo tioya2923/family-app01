@@ -3,6 +3,7 @@ nav {
     height: 5.56em;
     width: 100%;
     top: 0%;
+    margin-bottom: 2rem;    
     
 }
 
@@ -25,31 +26,8 @@ nav {
 }
 
 
-/*
-nav {
-    position: fixed;
-    width: 100%;
-    top: 0;
-    left: 0;
-    height: 3em;
-    background-color: #2F4F4F;
-    padding: 1em;
-    justify-content: space-between;
-    z-index: 1;
-    
-    
-}
-*/
 .menu-toggle {
-    visibility: hidden;
-    /*
-    position: relative;
-    top: 0.5em;
-    left: 1em;
-    display: grid;
-    place-content: center;
-  */
-    
+    visibility: hidden;   
    
     
 }  

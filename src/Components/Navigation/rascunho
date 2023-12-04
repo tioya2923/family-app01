@@ -71,6 +71,9 @@ const Navbar = () => {
                 <li className="item"><NavLink to="/areaPessoal">Área Pessoal</NavLink></li>
             </ul>
             </div >
+
+            ######## AUDIOS ######
+            https://simpleguics2pygame.readthedocs.io/en/latest/_static/links/snd_links.html
            
         </nav >*/}
 

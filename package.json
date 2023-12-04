@@ -14,11 +14,13 @@
     "hamburger-react": "^2.5.0",
     "map": "^1.0.1",
     "pages": "^0.0.16",
+    "pdfmake": "^0.2.8",
     "prop-types": "^15.8.1",
     "proxy": "^2.1.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.10.1",
+    "react-pdf": "^7.5.1",
     "react-router-dom": "^6.16.0",
     "react-scripts": "5.0.1",
     "sass": "^1.67.0",
@@ -52,6 +54,7 @@
     ]
   },
   "devDependencies": {
+    "cross-env": "^7.0.3",
     "eslint": "^8.49.0",
     "eslint-plugin-react": "^7.33.2",
     "openmobile": "^1.0.6"

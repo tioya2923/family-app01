@@ -6,11 +6,11 @@ import "./Navbar.css";
 
 const Navbar = () => {
     const navigation = [
-        { link: "arvore", text: 'Árvore' },
+        //{ link: "arvore", text: 'Árvore' },
         { link: 'fotografias', text: 'Fotografias' },
         { link: 'videos', text: 'Vídeos' },
         { link: 'audios', text: 'Audios' },
-        { link: 'documentos', text: 'Documentos' },
+        //{ link: 'documentos', text: 'Documentos' },
         { link: 'areaPessoal', text: 'Área Pessoal' },
     ];
     const [isOpen, setOpen] = useState(false);
